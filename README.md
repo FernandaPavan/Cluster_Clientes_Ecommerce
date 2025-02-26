@@ -12,7 +12,7 @@ Os dados abrangem múltiplas dimensões, como status do pedido, preço, pagament
 
 O objetivo é identificar padrões de comportamento entre os clientes da Olist Store. Por meio da clusterização, buscamos agrupar clientes com características semelhantes para que possamos entender melhor seus comportamentos e preferências.
 
-Com esta demanda, realizamos uma análise de segmentação para encontrar padrões nos seguintes aspectos:
+Com esta demanda, realizaremos uma análise de segmentação para encontrar padrões nos seguintes aspectos:
 
  **1 -**  Total de Compras <br>
  **2 -**  Tempo médio de entrega <br>
