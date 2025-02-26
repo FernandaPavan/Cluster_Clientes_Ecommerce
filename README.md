@@ -55,3 +55,4 @@ Este Projeto foi Desenvolvido Sob Mentoria dos Profissionais da Instituição Un
 
 Clique aqui para baixar o conjunto de dados [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+Clique aqui para baixar o conjunto de dados <a href="https://doi.org/10.34740/KAGGLE/DSV/195341" target="_blank">Brazilian E-Commerce Public Dataset by Olist</a>
