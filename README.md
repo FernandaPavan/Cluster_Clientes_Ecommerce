@@ -53,5 +53,5 @@ A abordagem completa dessas etapas, explicando o passo a passo, encontra-se no n
 
 Este Projeto foi Desenvolvido Sob Mentoria dos Profissionais da Instituição Universidade dos Dados - André Yukio.
 
-Clique aqui para baixar o conjunto de dados [Brazilian E-Commerce Public Dataset by Olist](https://doi.org/10.34740/KAGGLE/DSV/195341.)
+Clique aqui para baixar o conjunto de dados [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
