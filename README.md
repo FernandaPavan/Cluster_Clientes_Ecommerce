@@ -43,7 +43,7 @@ Com esta demanda, realizamos uma análise de segmentação para encontrar padrõ
 ### **Sobre o Projeto:**
 
 A abordagem completa dessas etapas, explicando o passo a passo, encontra-se no notebook:
-[Clusterização de Clientes em E-commerce]()
+[Clusterização de Clientes em E-commerce](https://github.com/FernandaPavan/Cluster_Clientes_Ecommerce/blob/main/Projeto_Cluster_Olist.ipynb)
 <br>
 <br>
 
