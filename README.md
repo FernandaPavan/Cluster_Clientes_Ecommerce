@@ -40,6 +40,13 @@ Com esta demanda, realizaremos uma análise de segmentação para encontrar padr
 
 <br>
 
+### **📈Resultados Obtidos:**
+- Definição do número ótimo de clusters utilizando Elbow Method e Silhouette Score.<br>
+- Segmentação da base em 4 grupos de clientes com características comportamentais distintas.<br>
+- Silhouette Score: 0,3672, indicando uma separação moderada entre os clusters.<br>
+- Identificação de padrões relacionados à frequência de compras, valor gasto, tempo entre pedidos, custo de frete e avaliações.<br>
+- Geração de insights para estratégias de marketing, retenção e personalização de campanhas.<br>
+
 ### **Sobre o Projeto:**
 
 A abordagem completa dessas etapas, explicando o passo a passo, encontra-se no notebook:
